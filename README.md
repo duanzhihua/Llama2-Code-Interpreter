@@ -17,7 +17,7 @@ This project allows LLM to generate code, execute it, receive feedback, debug, a
 
 [The purpose and direction of the project](https://github.com/SeungyounShin/Llama2-Code-Interpreter/wiki)
 
-## Quick Start
+## Quickstart
 
 **Run the Gradio App**:
    ```bash
